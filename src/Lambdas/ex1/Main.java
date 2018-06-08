@@ -16,6 +16,8 @@ public class Main {
 
 
         names.forEach(Main::print);
+
+        //test comment
     }
     static void print(String a){
         System.out.println(a);
